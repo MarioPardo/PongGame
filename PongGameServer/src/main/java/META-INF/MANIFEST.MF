@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.MarioPardo.PongServer.Main
+
+
+Sealed: false
+
+
