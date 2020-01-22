@@ -82,7 +82,7 @@ public class Main extends Application
         t1.setCycleCount(Timeline.INDEFINITE);
 
 
-        //serial = new Serial();
+        serial = new Serial();
 
 
         stage.setTitle("MENU");
